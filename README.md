@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Abdullah Montasser**
 - GitHub: [@abdullahmontasser](https://github.com/abdullahmontasser)
 
 
